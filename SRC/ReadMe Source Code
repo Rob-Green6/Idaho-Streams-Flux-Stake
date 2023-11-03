@@ -1,0 +1,5 @@
+The code was written for Arduino in VSCode v 1.83.1.  
+The platformio.ini file is also posted here so a user can see platform, board, and library information.
+The main.cpp file is also posted.
+
+The board used in version 1 is the Adafruit esp32 Huzzh BO board.
